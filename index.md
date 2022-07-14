@@ -11,13 +11,16 @@ This will serve as a brief description of your project. Limit this to three sent
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://i3.ytimg.com/vi/L3Z3zM4a9gw/maxresdefault.jpg)](https://youtu.be/L3Z3zM4a9gw "Final Milestone")
 
+# Final Milestone Demo
+
+[![Final Milestone](https://i3.ytimg.com/vi/WOjv6PGqrOQ/maxresdefault.jpg)](https://youtu.be/WOjv6PGqrOQ "Final Milestone")
 
 # Second Milestone
 (Edit sentences later) For my second milestone, I proceeded to download a zip file named "Object_Detection_Files.zip" and unzipped its contents into a directory. The zip file contained the necessary data to match each detected object using already trained library data. For the library, I used A Coco names file which has already been trained to identify various normal everyday objects and animals. After unzipping the library containing data, I then compiled the source code that I found online onto the Python IDE. After compiling the code from the source code, I also added an additional feature to the while loop. I added a feature to enable the user to exit the program by pressing the esc key. When finished with this adjustment, I ran the code, and it successfully detected various objects around my surroundings. However, the screen just displayed a number, and it did not show the units. Since object detection is a tool to show how accurate the detected object is to the trained model from the library, I adjusted the code so that the percentage would display. After making this fix, the percentage successfully displayed, and the object detection ran smoothly as well. Furthermore, after successfully detecting numerous objects, I also then changed the code so that the camera only detects one object, which I set it to be scissors. After making this change and running the code, I was able to successfully detect scissors. For my next milestone, I would like to also detect another specific object, just like how I did with the scissors. 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone](https://i3.ytimg.com/vi/L3Z3zM4a9gw/maxresdefault.jpg)](https://youtu.be/L3Z3zM4a9gw "Second Milestone")
 
 
 # First Milestone
