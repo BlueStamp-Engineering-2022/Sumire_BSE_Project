@@ -1,4 +1,4 @@
-﻿# Juggling Detection with Machine Learning on Raspberry Pi
+﻿# Juggling Detection on Raspberry Pi
 The base of this program uses Raspberry Pi to detect various everyday objects using already trained library data. A further modification built off this base enabled the Raspberry Pi camera to just detect juggling balls. By additionally adding R, the final project also allows one to get a visualization graph of their juggling.  
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
