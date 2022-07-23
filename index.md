@@ -3,7 +3,7 @@ The base of this program uses Raspberry Pi to detect various everyday objects us
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Sumire Takeya | Homestead High School | Electrical Engineering | Incoming Junior
+| Sumire T | Homestead High School | Electrical Engineering | Incoming Junior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLWq4FktByuxDJZc-PB63b8deXDk4yMrnBBAkZ5cyne-A5fpeWznfmMlTt1Nqv6hbowsouhePyEZYcTsd6oMAzrx0oysfLtKP02Bd8vL35Wchb0kXAYSZv5jeTWPy7wvIZhkUs6gSQ0Y97imdH44cpeZ=w1356-h1354-no?authuser=0)
 
